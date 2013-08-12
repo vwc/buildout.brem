@@ -17,7 +17,7 @@ env.hosts = ['6zu4']
 env.webserver = '/opt/webserver/buildout.webserver'
 env.code_root = '/opt/sites/plonesite/buildout.plonesite'
 env.local_root = '/Users/cb/devel/brem/buildout.brem'
-env.sitename = 'plonesite'
+env.sitename = 'brem'
 env.code_user = 'root'
 env.prod_user = 'www'
 
